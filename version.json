@@ -1,5 +1,5 @@
 {
-    "version": "1.2.0",
-    "exe_url": "https://github.com/YourUsername/Dictate-Language/releases/latest/download/DictateStudio.exe",
-    "notes": "Added multi-file support and bug fixes."
+    "version": "1.1.0",
+    "exe_url": "https://github.com/worstuser1/Dictate-Coding-Language/releases/latest/download/DictateStudio.exe",
+    "notes": "Initial release of Dictate Studio with multi-file and debugging support."
 }
