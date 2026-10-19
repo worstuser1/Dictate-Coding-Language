@@ -1,0 +1,5 @@
+{
+    "version": "1.2.1",
+    "exe_url": "https://github.com/worstuser1/Dictate-Coding-Language/releases/latest/download/DictateStudio.exe",
+    "notes": "v1.2.0: Auto-creates main.dic with Hello World on first launch, removes demo button, and adds live Dictate syntax highlighting."
+}
