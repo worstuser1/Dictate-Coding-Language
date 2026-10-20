@@ -1,5 +1,5 @@
 {
-    "version": "1.3.0",
+    "version": "1.4.0",
     "exe_url": "https://github.com/worstuser1/Dictate-Coding-Language/releases/latest/download/DictateStudio.exe",
-    "notes": "v1.3.0: Added live context-aware autocomplete popup (dictate., console., global(), mean., ?[) with Tab/Enter completion and smart block auto-indentation."
+    "notes": "v1.4.0: Added over 2000 additional lines to solve bugs and helped the quality of life as a whole."
 }
