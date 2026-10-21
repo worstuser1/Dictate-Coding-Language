@@ -4,7 +4,7 @@
 
 ---
 ## If you'd like to join a similar community!
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=flat&logo=discord&logoColor=white)]((https://discord.gg/4t9UctqEmX))
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/4t9UctqEmX)
 
 ## Key Language Mechanics
 
