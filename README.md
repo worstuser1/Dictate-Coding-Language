@@ -3,7 +3,7 @@
 **Dictate** is an imperative, structured programming language built on deterministic line pacing, strict domain boundaries, and explicit mutation wrappers. Programs begin execution strictly through `mean start()`, with statement advancement authorized line-by-line via the `pass` directive.
 
 ---
-## If you'd like to join a similar community!
+### If you'd like to join a community based on this coding langauge!
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/4t9UctqEmX)
 
 ## Key Language Mechanics
