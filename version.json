@@ -1,5 +1,5 @@
 {
-    "version": "1.4.0",
+    "version": "1.5.5",
     "exe_url": "https://github.com/worstuser1/Dictate-Coding-Language/releases/latest/download/DictateStudio.exe",
-    "notes": "v1.4.0: Added over 2000 additional lines to solve bugs and helped the quality of life as a whole."
+    "notes": "v1.5.5: Added Python support."
 }
