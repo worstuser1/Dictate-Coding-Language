@@ -1,5 +1,5 @@
 {
-    "version": "1.5.5",
+    "version": "1.6.0",
     "exe_url": "https://github.com/worstuser1/Dictate-Coding-Language/releases/latest/download/DictateStudio.exe",
-    "notes": "v1.5.5: Added Python support."
+    "notes": "v1.6.0: Safety."
 }
